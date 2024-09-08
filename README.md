@@ -1,16 +1,26 @@
-# recipes
+# Recipe App
 
-A new Flutter project.
+Welcome to the Recipe App! This is a simple application designed to help you manage and explore recipes.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+Here are some screenshots of the app:
 
-A few resources to get you started if this is your first Flutter project:
+- **Intro Image 1**  
+  ![Intro Image 1](assets/intro-image/Ekran%20Resmi%202024-09-08%2023.21.04.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Intro Image 2**  
+  ![Intro Image 2](assets/intro-image/Ekran%20Resmi%202024-09-08%2023.21.21.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Browse and manage recipes.
+- User-friendly interface for recipe navigation.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kaandurmus23/Flutter-miniRecipeApp.git
