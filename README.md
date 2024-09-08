@@ -1,26 +1,26 @@
-# Recipe App
+# Simple Application Test Project
 
-Welcome to the Recipe App! This is a simple application designed to help you manage and explore recipes.
+This repository contains a simple application created as a test project. The purpose of this project is to demonstrate basic app development concepts rather than to provide a fully functional recipe app or any specific application. 
 
 ## Screenshots
 
-Here are some screenshots of the app:
+Here are some screenshots of the application:
 
-- **Intro Image 1**  
+- **Intro Image 1**:
   ![Intro Image 1](assets/intro-image/Ekran%20Resmi%202024-09-08%2023.21.04.png)
 
-- **Intro Image 2**  
+- **Intro Image 2**:
   ![Intro Image 2](assets/intro-image/Ekran%20Resmi%202024-09-08%2023.21.21.png)
 
 ## Features
 
-- Browse and manage recipes.
-- User-friendly interface for recipe navigation.
+- Simple user interface to showcase basic app functionality.
+- Includes introductory images to provide an overview of the application.
 
-## Installation
+## Setup
 
-To get started with this project, follow these steps:
+To get started with this project, clone the repository and open it with your preferred IDE:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kaandurmus23/Flutter-miniRecipeApp.git
+```bash
+git clone https://github.com/kaandurmus23/Flutter-miniRecipeApp.git
+cd Flutter-miniRecipeApp
